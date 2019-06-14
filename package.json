@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@maticnetwork/walletconnect-provider": "0.0.1-beta.1",
+    "bignumber.js": "^9.0.0",
     "bootstrap": "^4.3.1",
     "maticjs": "^1.0.0-beta.12",
     "node-sass": "^4.12.0",

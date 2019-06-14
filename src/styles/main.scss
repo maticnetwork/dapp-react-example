@@ -24,3 +24,11 @@ html {
 .screen-middle-container {
   height: 400px;
 }
+
+.box {
+  background-color: $white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 1px 7px 0 rgba(11, 21, 71, 0.05);
+  border-bottom: 1px solid rgba(11, 21, 71, 0.03);
+}
